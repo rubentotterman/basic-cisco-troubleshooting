@@ -1,6 +1,6 @@
 # Cisco Router and Switch Initial Configuration
 
-![](/Cisco-Router-and-Switch-Basics.jpg)
+![](/img.jpg)
 
 ## 1) Configure Router 1 with the hostname `R1`
 ```
